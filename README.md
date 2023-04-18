@@ -1,4 +1,4 @@
-**Sintaxis y Semantica de los Lenguajes
+** *Sintaxis y semantica de los Lenguajes* **
 - K2051
 -  Año 2023
 - 177.076-7
