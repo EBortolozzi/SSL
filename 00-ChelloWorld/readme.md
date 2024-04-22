@@ -11,5 +11,6 @@ Estándares correspondiente a la Versión utilizada:
 Código del Archivo vercion.c
     Este código permite verificar los Estándares de la Versión de "C" que uno esta utilizando
 
+salida.txt : es una muestra del resultado el archivo hello.c luego de compilado y haciendo una salida en un .txt (luego de enviar el comando de hello.exe > salida.txt , hay que apretar enter nuevamente así se genera bien el archivo y no queda en blanco, a causa de la pausa generada en el código)
 
 
